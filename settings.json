@@ -1,0 +1,11 @@
+{
+    "window_width":1280,
+    "window_height":720,
+    "layers":{
+        "bg":0,
+        "bg_detail":1,
+        "main":2,
+        "fg_detail_bottom":3,
+        "fg_detail_top":4
+    }
+}
